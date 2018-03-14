@@ -1,17 +1,4 @@
-head{
-  color: blue
-}
-title{
-  font-size: 18;
-  font-style: bold;
-  color: blue;
-}
-p{
+h1{
   font-style: italic;
   color: blue;
-}
-p{
-  font-style: oblique;
-  color: red;
-
 }
